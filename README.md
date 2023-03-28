@@ -1,3 +1,15 @@
+<div>
+  <a href="https://t.me/seunome" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v2.png" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/seunome" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/seunome" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
+</div>
+
 ## Enviando E-mails e Mensagens via WhatsApp com Node.js
 
 Este projeto consiste em um script em Node.js que utiliza o pacote nodemailer para enviar e-mails e a biblioteca whatsapp-web.js para integrar o envio de mensagens via WhatsApp em uma plataforma de e-mail.
