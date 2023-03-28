@@ -10,6 +10,12 @@
   </a>
 </div>
 
+<style>
+  a{
+  text-decoration: none;
+  }
+  </style>
+
 ## Enviando E-mails e Mensagens via WhatsApp com Node.js
 
 Este projeto consiste em um script em Node.js que utiliza o pacote nodemailer para enviar e-mails e a biblioteca whatsapp-web.js para integrar o envio de mensagens via WhatsApp em uma plataforma de e-mail.
