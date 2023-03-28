@@ -26,7 +26,7 @@ Configuração personalizada de envio de e-mails e mensagens
 Instruções de uso:
 
 Clone este repositório em seu computador
-Instale as dependências necessárias com npm install
+Instale as dependências necessárias `npm install whatsapp-web.js` && `npm install nodemailer`
 Configure as credenciais para envio de e-mails e acesso ao WhatsApp
 Crie sua lista de emails para o disparo
 Execute o script com node sender.js
