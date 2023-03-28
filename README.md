@@ -1,20 +1,15 @@
 <div>
-  <a href="https://t.me/seunome" target="_blank">
+  <a href="https://t.me/+KC2p64wbAdtiNTVh" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v2.png" alt="Telegram">
   </a>
-  <a href="https://www.instagram.com/seunome" target="_blank">
+  <a href="https://www.instagram.com/_dfbueno_" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/seunome" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-felipe-bueno-25320a263" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
   </a>
 </div>
 
-<style>
-  a{
-  text-decoration: none;
-  }
-  </style>
 
 ## Enviando E-mails e Mensagens via WhatsApp com Node.js
 
